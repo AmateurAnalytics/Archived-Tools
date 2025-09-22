@@ -30,7 +30,7 @@ To document my personal learning path as I move toward becoming a sports analyst
 
 🔒 Current Status
 
-I’m now working with more advanced tools (e.g. 0–3 index dashboards, improved momentum tracking with time-outs & rotation efficiency).
+I’m now working with more advanced tools (e.g. index dashboards, improved momentum tracking with time-outs & rotation efficiency).
 
 These are not shared publicly yet, but they are actively used in my projects.
 
