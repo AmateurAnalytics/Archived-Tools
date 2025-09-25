@@ -18,6 +18,15 @@ Produced metrics like Success, Impact and Contribution.
 
 Visualization included radar charts and bar charts.
 
+2. Dual Heatmap
+
+Uses a 6x6 grid to define where the ball landed after an attack or serve 
+
+Creates a frequency heatmap for attacks and serves 
+
+Simple visuals using conditional formatting 
+
+
 More spreadsheets will be added over time as new tools are developed.
 
 🚀 Why archive these?
